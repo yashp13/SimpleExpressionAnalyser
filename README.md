@@ -1,4 +1,6 @@
 # SimpleExpressionAnalyser
+A simple expression analyser using Flex and Yacc
+
 Instructions:
 	Enter the following commands in terminal to compile:
 
